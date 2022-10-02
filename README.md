@@ -1,7 +1,3 @@
-Hi I'm @PlatonchePrograms
-Блогер по видеоиграм
+Im Platonche!
+Программист, я родился в городе челябинск
 
-<!---
-PlatonchePrograms/PlatonchePrograms is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
